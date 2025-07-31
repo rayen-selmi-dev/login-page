@@ -1,0 +1,65 @@
+
+        body{
+            background-color: #cccccc23;
+        } 
+        img{
+            height: 100vh;
+            width:110vh;
+            margin-top: -4vh;
+            margin-left: -105px;;
+        }
+        .Login{
+            position: absolute;
+            margin-left: 855px;
+            margin-top: -420px;
+            width: 300px;
+            height: 400px;
+            border-radius: 2px;
+            border-style: none;
+        }
+        h1{
+            color: rgb(228, 120, 31);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 30px;
+        }
+        .username{
+            color: rgb(27, 110, 10);
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+        }
+        input[type="text"] {
+            width: 95%;
+            padding: 8px;
+            margin-top: 6px;
+            margin-bottom: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            color: rgb(26, 129, 155);
+        }
+        .inputpassword{
+             width: 95%;
+            padding: 8px;
+            margin-top: 6px;
+            margin-bottom: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            color:  rgb(228, 120, 31);
+        }
+        .password{
+            color: blueviolet;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+        }
+        button{
+            background-color: rgb(27, 110, 10);
+            color: white;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size:20px ;
+            padding:10px 20px;
+            border:none;
+            border-radius: 2px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
